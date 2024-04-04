@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/akashkumar123gmail.com/Desktop/dsaProblem/Trie/akash'
+relocations:
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E80, symSize: 0x34 }
+  - { offsetInCU: 0xEA94, offset: 0xEA94, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x5F198, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xF8CC, offset: 0xF8CC, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x9F, symBinAddr: 0x100003F4F, symSize: 0x0 }
+  - { offsetInCU: 0xF8E6, offset: 0xF8E6, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0xA0, symBinAddr: 0x100003F50, symSize: 0x0 }
+  - { offsetInCU: 0xF900, offset: 0xF900, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0xA1, symBinAddr: 0x100003F51, symSize: 0x0 }
+  - { offsetInCU: 0xFA2B, offset: 0xFA2B, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIoEE, symObjAddr: 0xA2, symBinAddr: 0x100003F52, symSize: 0x0 }
+  - { offsetInCU: 0xFA86, offset: 0xFA86, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_akash.cpp, symObjAddr: 0x70, symBinAddr: 0x100003EF0, symSize: 0x14 }
+  - { offsetInCU: 0xFAB1, offset: 0xFAB1, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x34, symBinAddr: 0x100003EB4, symSize: 0x3C }
+  - { offsetInCU: 0xFAB9, offset: 0xFAB9, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_akash.cpp, symObjAddr: 0x70, symBinAddr: 0x100003EF0, symSize: 0x14 }
+  - { offsetInCU: 0xFAAD, offset: 0xFAAD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E80, symSize: 0x34 }
+  - { offsetInCU: 0xFAB5, offset: 0xFAB5, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x34, symBinAddr: 0x100003EB4, symSize: 0x3C }
+...
