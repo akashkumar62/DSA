@@ -10,7 +10,9 @@
 // The longest common prefix among all the given strings is “cod” as it is present as a prefix in all strings. Hence, the answer is “cod”.
 
 
+#include <bits/stdc++.h>
 
+using namespace std;
 
 
 struct Node {

@@ -1,4 +1,4 @@
-// Vidur Goel
+// Akash Kumar
 
 //Codeforcees Handle: Vidurcodviz
 #include<bits/stdc++.h>
