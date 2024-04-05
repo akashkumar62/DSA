@@ -1,6 +1,6 @@
 // Akash Kumar
 
-//Codeforcees Handle: Vidurcodviz
+
 #include<bits/stdc++.h>
 using namespace std;
 using namespace chrono;
